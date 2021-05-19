@@ -21,8 +21,8 @@
 - Pour changer la valeurs de consigne et température :
 	-> Appuyer sur le bouton ?? pour incrémenter de 0.5°C la température
 	-> Appuyer sur le bouton ?? pour décrémenter de 0.5°C la température
-	-> Appuyer sur le bouton ?? pour incrémenter de ??%RH l'humidité
-	-> Appuyer sur le bouton ?? pour décrémenter de ??%RH l'humidité
+	-> Appuyer sur le bouton ?? pour incrémenter de 0.5%RH l'humidité
+	-> Appuyer sur le bouton ?? pour décrémenter de 0.5%RH l'humidité
 	/!\ Les connexions étant parfois capricieuses, il se peut qu'il faille appuyer plusieurs fois sur le bouton avant de voir un changement (visible sur l'écran LCD)
 
 
